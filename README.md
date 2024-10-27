@@ -13,18 +13,18 @@
 - [x]  https://school.programmers.co.kr/learn/courses/30/lessons/87389
 - [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12944
 - [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12928
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12932
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12925
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12933
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12947
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12912
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12932
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12925
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12933
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12947
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12912
 
 ### Lv.2
 
 - [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12939
 - [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12951
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12941
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12909
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12941
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12909
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/70129
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12924
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12911
