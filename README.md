@@ -53,7 +53,7 @@
 - [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12919
 - [x]   https://school.programmers.co.kr/learn/courses/30/lessons/12910
 - [x]  https://school.programmers.co.kr/learn/courses/30/lessons/76501
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12948
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12948
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/86051
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12935
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12903
