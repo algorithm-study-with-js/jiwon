@@ -62,7 +62,7 @@
 
 ### Lv.2
 
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/42842
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/42842
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12985
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/42885
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12980
