@@ -56,8 +56,8 @@
 - [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12948
 - [x]  https://school.programmers.co.kr/learn/courses/30/lessons/86051
 - [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12935
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12903
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12922
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12903
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12922
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/70128
 
 ### Lv.2
