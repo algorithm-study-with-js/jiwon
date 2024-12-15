@@ -92,21 +92,21 @@
 
 - [x]  https://school.programmers.co.kr/learn/courses/30/lessons/77884
 - [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12917
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/82612
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12918
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12950
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12969
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12940
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12906
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/68935
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12930
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/82612
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12918
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12950
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12969
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12940
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12906
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/68935
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12930
 
 ### Lv.2
 
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/87390
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/12949
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/17680
-- [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/42578
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/87390
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/12949
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/17680
+- [x]  https://school.programmers.co.kr/learn/courses/30/lessons/42578
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/64065
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/131127
 - [ ]  https://school.programmers.co.kr/learn/courses/30/lessons/42586
